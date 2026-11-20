@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Storefront frontend check successful - Version 2!"
+echo "Storefront frontend check successful - Version 3!"
